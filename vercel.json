@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/dutyPharmacy.js": {
-      "maxDuration": 10
-    }
-  }
-}
